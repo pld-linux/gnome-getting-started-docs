@@ -1,12 +1,12 @@
 Summary:	GNOME Getting Started guide
 Summary(pl.UTF-8):	Podręcznik wprowadzający do środowiska GNOME
 Name:		gnome-getting-started-docs
-Version:	3.18.1
+Version:	3.18.2
 Release:	1
 License:	CC-BY-SA-3.0
 Group:		Documentation
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-getting-started-docs/3.18/%{name}-%{version}.tar.xz
-# Source0-md5:	0bbf2f41275b25d27da6ea4736b25e3d
+# Source0-md5:	5d4bfbf3f3ab927adcd4d7cba1050d50
 URL:		http://live.gnome.org/DocumentationProject
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake >= 1:1.11
